@@ -1,12 +1,13 @@
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
-
-Rach!
-India
-working on Git
-RoboConx
-Developer de algo
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
